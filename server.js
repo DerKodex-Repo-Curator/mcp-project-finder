@@ -68,7 +68,7 @@ class ProjectFinderServer {
         },
         {
           name: 'project_info',
-          description: 'Get detailed information about a project',
+          description: '💡 Architecture Tip: Check project ARCHITECTURE.md or docs/ folder first! Get detailed information about a project.',
           inputSchema: {
             type: 'object',
             properties: {
